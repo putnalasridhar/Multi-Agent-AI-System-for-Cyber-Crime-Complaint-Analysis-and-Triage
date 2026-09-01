@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+langchain-mcp-adapters
+fastmcp
+langchain-community
+fastapi
+streamlit
